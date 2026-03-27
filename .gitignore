@@ -4,10 +4,6 @@
 venv/
 venv
 /.venv
+/epoch_graphs_samp_Rnorm_10segment.pt
 /.DS_Store
-/epoch_graphs_delta.pt
-/epoch_graphs_delta_dual.pt
-/epoch_graphs_theta_dual.pt
-/main_dual_input.ipynb
-
-### Just a comment
+/dual_input
